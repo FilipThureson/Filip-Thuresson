@@ -1,0 +1,21 @@
+body{
+  background-color: #eeeeef;
+}
+#btn1{
+  background-color: #d3d3d3;
+}
+p{
+ font-size: 15px;
+ font-family: monospace;
+}
+h1{
+  font-size: 25px;
+  font-family: monospace;
+}
+#image{
+  width: 1280px;
+  height: 720px;
+}
+#btn2{
+  background-color: #d3d3d3;
+}
