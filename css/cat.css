@@ -7,10 +7,14 @@ body{
 p{
  font-size: 15px;
  font-family: monospace;
+ color: #3D4849;
+ text-shadow: 2px 2px #bebebe;
 }
 h1{
   font-size: 25px;
   font-family: monospace;
+  color: #3D4849;
+  text-shadow: 2px 2px #bebebe;
 }
 #image{
   width: 1280px;
@@ -18,4 +22,5 @@ h1{
 }
 #btn2{
   background-color: #d3d3d3;
+  text-decoration-color:#3D4849;
 }
